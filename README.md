@@ -28,7 +28,7 @@ Java
 Scanner (java.util)
 
 **Como Executar:**
-Clone o repositório 
+Clone o repositório - 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
 **Compile o programa:**
