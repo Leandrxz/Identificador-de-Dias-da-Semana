@@ -27,8 +27,8 @@ Caso o número esteja fora do intervalo válido, é exibida a mensagem "Opção 
 Java
 Scanner (java.util)
 
-**Como Executar.**
-Clone o repositório:
+**Como Executar:**
+Clone o repositório 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
 **Compile o programa:**
